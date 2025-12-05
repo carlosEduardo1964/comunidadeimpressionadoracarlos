@@ -31,6 +31,6 @@ if not inspector.has_table("usuario"):
 else:
     print("Base de dados já existente")
 
-
 from comunidadeimpressionadora import routes
+
 
